@@ -1,6 +1,6 @@
-# myapp
+# Act-7-listar-tarjetas-6I-2026
 
-A new Flutter project.
+listado de tarjetas con imagen 
 
 ## Getting Started
 
